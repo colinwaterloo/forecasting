@@ -1,0 +1,2 @@
+module LogProcesser {
+}
